@@ -9,6 +9,11 @@ Gitpod account
 
 Github account
 
+## Arquivos deste repositório
+
+1) README.md - passo a passo das análises realizadas
+2) comitando - passo a passo de como subir alterações feitas no gitpod para o github
+
 ## Instalar ferramentas
 
 ```bash
