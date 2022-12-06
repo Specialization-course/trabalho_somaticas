@@ -1,0 +1,18 @@
+Como subir alterações feitas no gitpod para o github:
+
+1) altere o arquivo conforme necessário;
+2) veja o status (git status);
+3) vai exibir arquivos untracker e em qual branch você está;
+4) monitore o arquivo (git add filename);
+5) veja o status (git status) - vai aparecer
+    On branch master
+
+Initial commit
+
+Changes to be committed:  
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   filename
+
+6) Faça o commit (git commit -m "explique aqui a alteração realizada no arquvio" )
+7) envie para o repositório remoto (git push -u origin nome_do_branch)
