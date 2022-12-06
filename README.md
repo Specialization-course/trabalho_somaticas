@@ -1,6 +1,7 @@
 # trabalho_somaticas
 
 ## Requisitos
+
 Gitpod account
 Github account
 
@@ -9,11 +10,23 @@ Github account
 ```bash
 # instalar sra toolkit
 brew install sratoolkit
+```
 
-
+```bash
 # instalar parallel-fastq-dump
 pip install parallel-fastq-dump
 
 # rodar validate
 echo "Aexyo" | vdb-config -i
+```
+
+
+## Baixar fastq
+
+```bash
+time parallel-fastq-dump --sra-id SRR_ID \
+--threads 4 --outdir ./ \
+--split-files --gzip
+```
+
 
