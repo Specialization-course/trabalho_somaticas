@@ -3,6 +3,7 @@
 ## Requisitos
 
 Gitpod account
+
 Github account
 
 ## Instalar ferramentas
@@ -29,7 +30,7 @@ time parallel-fastq-dump --sra-id SRR_ID \
 --split-files --gzip
 ```
 
-## download do genoma referencia (gh38)
+## Download do genoma referencia (gh38)
 
 ```bash
 # -c continua o download de onde parou caso caia a conexao
