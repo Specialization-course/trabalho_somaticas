@@ -37,4 +37,4 @@ time parallel-fastq-dump --sra-id SRR_ID \
 wget -c https://hgdownload.soe.ucsc.edu/goldenPath/hg38/chromosomes/
 ```
 
-
+##
