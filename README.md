@@ -21,7 +21,7 @@ echo "Aexyo" | vdb-config -i
 ```
 
 
-## Baixar fastq
+## Baixar fastq (SRR8832737)
 
 ```bash
 time parallel-fastq-dump --sra-id SRR_ID \
