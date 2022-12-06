@@ -29,4 +29,11 @@ time parallel-fastq-dump --sra-id SRR_ID \
 --split-files --gzip
 ```
 
+## download do genoma referencia (gh38)
+
+```bash
+# -c continua o download de onde parou caso caia a conexao
+wget -c https://hgdownload.soe.ucsc.edu/goldenPath/hg38/chromosomes/
+```
+
 
