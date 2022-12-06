@@ -30,7 +30,7 @@ time parallel-fastq-dump --sra-id SRR_ID \
 --split-files --gzip
 ```
 
-## Download do genoma referencia (gh38)
+## Download do genoma referencia (hg38)
 
 ```bash
 # -c continua o download de onde parou caso caia a conexao
