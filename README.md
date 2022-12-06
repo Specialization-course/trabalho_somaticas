@@ -29,6 +29,11 @@ pip install parallel-fastq-dump
 echo "Aexyo" | vdb-config -i
 ```
 
+```bash
+# instalar o bwa
+brew install bwa
+```
+
 
 ## Baixar fastq (SRR8832737)
 
