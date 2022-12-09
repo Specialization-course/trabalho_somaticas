@@ -24,7 +24,9 @@
 
 ## Obtenção do arquivo VCF
 
-Os arquivos VCF podem ser obtidos no link https://drive.google.com/drive/folders/1m2qmd0ca2Nwb7qcK58ER0zC8-1_9uAiE
+Os arquivos VCF podem ser obtidos no link https://drive.google.com/drive/folders/1m2qmd0ca2Nwb7qcK58ER0zC8-1_9uAiE.
+
+O arquivo com metadados está disponível neste repositório.
 
 <div id='vcf'/>
 
