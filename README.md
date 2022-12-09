@@ -7,7 +7,7 @@
 ## Conteúdo
 1. [Requisitos](#requisitos)
 2. [Obtenção do arquivo VCF](#vcf)
-3. [Anotação do arquivo VCF](#anotacao)
+3. [Obtenção dos metadados](#metadados)
 
 
 <div id='requisitos'/>  
@@ -16,14 +16,22 @@
   * Acesso à internet
   * Conta google
   * Arquivo VCF 
+  * Arquivo de metadados
 
 <div id='requisitos'/>
 
 <div id='vcf'/>
 
 ## Obtenção do arquivo VCF
-Realizar as análises de acordo com o tutorial disponibilizado em https://github.com/renatopuga/somatico.git
 
-Um exemplo é fornecido nos arquivos deste repositório (*WP312.filtered.vcf.gz*)
+Os arquivos VCF podem ser obtidos no link https://drive.google.com/drive/folders/1m2qmd0ca2Nwb7qcK58ER0zC8-1_9uAiE
 
 <div id='vcf'/>
+
+<div id='metadados'/>
+
+## Obtenção dos metadados
+
+Os metadados podem ser obtidos no link https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA530251&search=MF&o=acc_s:a
+
+<div id='metadados'/>
