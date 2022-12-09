@@ -34,6 +34,6 @@ O arquivo com metadados está disponível neste repositório.
 
 ## Obtenção dos metadados
 
-Os metadados podem ser obtidos no link https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA530251&search=MF&o=acc_s:a
+Os metadados podem ser obtidos no link https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA530251&search=MF&o=acc_s:a.
 
 <div id='metadados'/>
