@@ -50,17 +50,17 @@ Análise de variantes somáticas detectadas em genes de alto risco que são fato
 
 ## 📥 Obtenção de arquivos 
 
-Os `arquivos VCF` podem ser obtidos no link https://drive.google.com/drive/folders/1m2qmd0ca2Nwb7qcK58ER0zC8-1_9uAiE.
+Os `arquivos VCF` podem ser obtidos no link: https://drive.google.com/drive/folders/1m2qmd0ca2Nwb7qcK58ER0zC8-1_9uAiE.
 
 O arquivo com metadados está disponível neste repositório.
-E também podem ser obtidos no link https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA530251&search=MF&o=acc_s:a.
+E também podem ser obtidos no link: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA530251&search=MF&o=acc_s:a.
 
 <div id='arquivos'/>
 
 
 <div id='colab'/>
 
-## Pipepline para rodar no google colab
-Arquivo para rodar no colab (https://drive.google.com/file/d/1Hy93rK3s-0aEwau8jGUlQGXFWIjUMY8G/view?usp=sharing)
+## 📝 Pipeline do Trabalho
+Pipeline com passo-a-passo desenvolvida no Google Colab - Link: (https://drive.google.com/file/d/1Hy93rK3s-0aEwau8jGUlQGXFWIjUMY8G/view?usp=sharing)
 
 <div id='colab'/>
