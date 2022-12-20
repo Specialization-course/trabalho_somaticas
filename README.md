@@ -10,7 +10,7 @@ Tópicos
 2. [Objetivo](#objetivo)
 3. [Requisitos](#requisitos)
 4. [Obtenção de arquivos](#arquivos)
-5. [Pipepline para rodar no google colab](#colab)
+5. [Pipeline do trabalho](#colab)
 
 <div id='introducao'/> 
 
