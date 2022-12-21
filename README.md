@@ -11,6 +11,7 @@
 4. [Requisitos](#requisitos)
 5. [Obtenção de Arquivos](#arquivos)
 6. [Pipeline do Trabalho](#colab)
+7. [Análise e Interpretação de Dados](#dados)
 
 <div id='introducao'/> 
 
@@ -74,5 +75,23 @@ Análise de variantes somáticas detectadas em genes de alto risco que são fato
 
 ## 📝 Pipeline do Trabalho
 Pipeline com passo-a-passo desenvolvida no [Google Colab](https://drive.google.com/file/d/1Hy93rK3s-0aEwau8jGUlQGXFWIjUMY8G/view?usp=sharing)
+
+<div id='colab'/>
+
+<div id='colab'/>
+
+## Análise e Interpretação de Dados
+
+* Tabela 1. Quantidade de Variantes encontradas em cada VCF
+
+![image](https://user-images.githubusercontent.com/57289531/209012328-d0d30f9c-d4e0-469b-8283-e3bd52a7d64e.png)
+
+* Tabela 2. Quantidade de cada tipo de Classe de Variantes
+
+![image](https://user-images.githubusercontent.com/57289531/209012359-f46e9fcd-2d63-4a9a-b7b8-dfafdae33a0c.png)
+
+* Tabela 3. Fatores de Patogenicidade 
+
+![image](https://user-images.githubusercontent.com/57289531/209012612-94372cf5-9215-436f-9abb-51542bfceb9e.png)
 
 <div id='colab'/>
