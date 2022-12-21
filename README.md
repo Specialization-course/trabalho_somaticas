@@ -86,7 +86,7 @@ Pipeline com passo-a-passo desenvolvida no [Google Colab](https://drive.google.c
 
 * Tabela 1. Quantidade de Variantes encontradas em cada VCF
 
-![image](https://user-images.githubusercontent.com/57289531/209012328-d0d30f9c-d4e0-469b-8283-e3bd52a7d64e.png)
+![image](https://user-images.githubusercontent.com/57289531/209014260-e85d3118-35ac-4aa2-9cfb-6fb99d914eef.png)
 
 * Tabela 2. Quantidade de cada tipo de Classe de Variantes
 
