@@ -82,6 +82,8 @@ Pipeline com passo-a-passo desenvolvida no [Google Colab](https://drive.google.c
 
 ## Análise e Interpretação de Dados
 
+> Obs.: Colocar todas tabelas e gráficos num PDF único, com legendas e tudo explicado. Acredito que fica mais prático e visualmente melhor!
+
 * Tabela 1. Quantidade de Variantes encontradas em cada VCF
 
 ![image](https://user-images.githubusercontent.com/57289531/209012328-d0d30f9c-d4e0-469b-8283-e3bd52a7d64e.png)
