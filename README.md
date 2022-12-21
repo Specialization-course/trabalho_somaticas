@@ -1,16 +1,16 @@
-# trabalho_somaticas
+# Projeto_Somático_2022 ![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=EmProdução&color=<YELLOW>)
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)]([https://gitpod.io/#https://github.com/fabio-marcelo/trabalho_somaticas])
 
 # Pipeline Análise Variantes Somáticas 
 
-Tópicos 
-
+**Tópicos**
 1. [Introdução](#introducao)
 2. [Objetivo](#objetivo)
-3. [Requisitos](#requisitos)
-4. [Obtenção de arquivos](#arquivos)
-5. [Pipeline do trabalho](#colab)
+3. [Referência](#referencia)
+4. [Requisitos](#requisitos)
+5. [Obtenção de Arquivos](#arquivos)
+6. [Pipeline do Trabalho](#colab)
 
 <div id='introducao'/> 
 
@@ -36,6 +36,16 @@ Análise de variantes somáticas detectadas em genes de alto risco que são fato
 
 <div id='objetivo'/> 
 
+<div id='referencia'/> 
+
+## 📚 Referências
+* [Artigo 01](https://pubmed.ncbi.nlm.nih.gov/33488802/)
+ > Xia Y, Hong Q, Gao Z, Wang S, Duan S. Somatically acquired mutations in primary myelofibrosis: A case report and meta-analysis. Exp Ther Med. 2021 Mar;21(3):193. Doi: 10.3892/etm.2021.9625. Epub 2021 Jan 7. PMID: 33488802; PMCID: PMC7812576.
+* [Artigo 02](https://pubmed.ncbi.nlm.nih.gov/33666653/)
+ > Luque Paz D, Riou J, Verger E, Cassinat B, Chauveau A, Ianotto JC, Dupriez B, Boyer F, Renard M, Mansier O, Murati A, Rey J, Etienne G, Mansat-De Mas V, Tavitian S, Nibourel O, Girault S, Le Bris Y, Girodon F, Ranta D, Chomel JC, Cony-Makhoul P, Sujobert P, Robles M, Ben Abdelali R, Kosmider O, Cottin L, Roy L, Sloma I, Vacheret F, Wemeau M, Mossuz P, Slama B, Cussac V, Denis G, Walter-Petrich A, Burroni B, Jézéquel N, Giraudier S, Lippert E, Socié G, Kiladjian JJ, Ugo V. Genomic analysis of primary and secondary myelofibrosis redefines the prognostic impact of ASXL1 mutations: a FIM study. Blood Adv. 2021 Mar 9;5(5):1442-1451. Doi: 10.1182/bloodadvances.2020003444. PMID: 33666653; PMCID: PMC7948260.
+
+<div id='referencia'/> 
+
 <div id='requisitos'/>  
 
 ## 🖥 Requisitos
@@ -43,6 +53,8 @@ Análise de variantes somáticas detectadas em genes de alto risco que são fato
   * Conta Google
   * Arquivo VCF 
   * Arquivo de metadados
+  * Arquivo de referência genômica (Hg19)
+  * Instalar VEP
 
 <div id='requisitos'/>
 
@@ -50,10 +62,10 @@ Análise de variantes somáticas detectadas em genes de alto risco que são fato
 
 ## 📥 Obtenção de arquivos 
 
-Os `arquivos VCF` podem ser obtidos no link: https://drive.google.com/drive/folders/1m2qmd0ca2Nwb7qcK58ER0zC8-1_9uAiE.
-
-O arquivo com metadados está disponível neste repositório.
-E também podem ser obtidos no link: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA530251&search=MF&o=acc_s:a.
+* [Arquivos VCF](https://drive.google.com/drive/folders/1m2qmd0ca2Nwb7qcK58ER0zC8-1_9uAiE)
+* [Arquivo com Metadados](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA530251&search=MF&o=acc_s:a)
+* [Arquivo Hg19](https://drive.google.com/drive/folders/1JeK0a9QURuZB77xuIOx2gBB03Wk3chQr)
+* [Repositório ensembl-vep](https://github.com/Ensembl/ensembl-vep/tags)
 
 <div id='arquivos'/>
 
@@ -61,6 +73,6 @@ E também podem ser obtidos no link: https://www.ncbi.nlm.nih.gov/Traces/study/?
 <div id='colab'/>
 
 ## 📝 Pipeline do Trabalho
-Pipeline com passo-a-passo desenvolvida no Google Colab - Link: (https://drive.google.com/file/d/1Hy93rK3s-0aEwau8jGUlQGXFWIjUMY8G/view?usp=sharing)
+Pipeline com passo-a-passo desenvolvida no [Google Colab](https://drive.google.com/file/d/1Hy93rK3s-0aEwau8jGUlQGXFWIjUMY8G/view?usp=sharing)
 
 <div id='colab'/>
