@@ -60,7 +60,7 @@ Análise de variantes somáticas detectadas em genes de alto risco que são fato
 
 <div id='arquivos'/>
 
-## 📥 Obtenção de arquivos 
+## 📥 Obtenção de Arquivos 
 
 * [Arquivos VCF](https://drive.google.com/drive/folders/1m2qmd0ca2Nwb7qcK58ER0zC8-1_9uAiE)
 * [Arquivo com Metadados](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA530251&search=MF&o=acc_s:a)
