@@ -11,7 +11,7 @@
 4. [Requisitos](#requisitos)
 5. [Obtenção de Arquivos](#arquivos)
 6. [Pipeline do Trabalho](#colab)
-7. [Análise e Interpretação de Dados](#dados)
+7. [Análise e Interpretação dos Dados](#dados)
 
 <div id='introducao'/> 
 
@@ -80,7 +80,7 @@ Pipeline com passo-a-passo desenvolvida no [Google Colab](https://drive.google.c
 
 <div id='dados'/>
 
-## Análise e Interpretação de Dados
+## Análise e Interpretação dos Dados
 
 * [Variantes de Interesse Clínico de Todas Amostas.pdf](https://github.com/fabio-marcelo/trabalho_somaticas/files/10289721/Variantes.de.Interesse.Clinico.de.Todas.Amostas.pdf)
 * [Tabelas das Amostras.pdf](https://github.com/fabio-marcelo/trabalho_somaticas/files/10289829/Tabelas.das.Amostras.pdf) 
