@@ -82,22 +82,7 @@ Pipeline com passo-a-passo desenvolvida no [Google Colab](https://drive.google.c
 
 ## Análise e Interpretação de Dados
 
-> Obs.: Colocar todas tabelas e gráficos num PDF único, com legendas e tudo explicado. Acredito que fica mais prático e visualmente melhor!
-
-* Tabela 1. Quantidade de Variantes encontradas em cada VCF
-
-![image](https://user-images.githubusercontent.com/57289531/209014260-e85d3118-35ac-4aa2-9cfb-6fb99d914eef.png)
-
-* Tabela 2. Quantidade de cada tipo de Classe de Variantes
-
-![image](https://user-images.githubusercontent.com/57289531/209012359-f46e9fcd-2d63-4a9a-b7b8-dfafdae33a0c.png)
-
-* Tabela 3. Fatores de Patogenicidade 
-
-![image](https://user-images.githubusercontent.com/57289531/209012612-94372cf5-9215-436f-9abb-51542bfceb9e.png)
-
-* Tabela 4. Consequências 
-
-![image](https://user-images.githubusercontent.com/57289531/209027643-70b7937d-1eb7-4e21-b57b-4b232459f9e7.png)
+* [Variantes de Interesse Clínico de Todas Amostas.pdf](https://github.com/fabio-marcelo/trabalho_somaticas/files/10289721/Variantes.de.Interesse.Clinico.de.Todas.Amostas.pdf)
+* [Tabelas das Amostras.pdf](https://github.com/fabio-marcelo/trabalho_somaticas/files/10289829/Tabelas.das.Amostras.pdf) 
 
 <div id='dados'/>
