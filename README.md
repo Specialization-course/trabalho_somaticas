@@ -78,7 +78,7 @@ Pipeline com passo-a-passo desenvolvida no [Google Colab](https://drive.google.c
 
 <div id='colab'/>
 
-<div id='colab'/>
+<div id='dados'/>
 
 ## Análise e Interpretação de Dados
 
@@ -96,4 +96,8 @@ Pipeline com passo-a-passo desenvolvida no [Google Colab](https://drive.google.c
 
 ![image](https://user-images.githubusercontent.com/57289531/209012612-94372cf5-9215-436f-9abb-51542bfceb9e.png)
 
-<div id='colab'/>
+* Tabela 4. Consequências 
+
+![image](https://user-images.githubusercontent.com/57289531/209027643-70b7937d-1eb7-4e21-b57b-4b232459f9e7.png)
+
+<div id='dados'/>
