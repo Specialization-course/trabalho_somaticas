@@ -84,6 +84,6 @@ Pipeline com passo-a-passo desenvolvida no [Google Colab](https://drive.google.c
 
 * [Tabelas das Amostras.pdf](https://github.com/fabio-marcelo/trabalho_somaticas/files/10291077/Tabelas.das.Amostras.pdf)
 * [Variantes de Interesse Clínico de Todas Amostas.pdf](https://github.com/fabio-marcelo/trabalho_somaticas/files/10291714/Variantes.de.Interesse.Clinico.de.Todas.Amostas.pdf)
-* [Genes de Interesse Clínico de Todas Amostras.pdf](https://github.com/fabio-marcelo/trabalho_somaticas/files/10291715/Genes.de.Interesse.Clinico.de.Todas.Amostras.pdf)
+* [Genes de Interesse Clínico de Todas Amostras.pdf](https://github.com/fabio-marcelo/trabalho_somaticas/files/10297068/Genes.de.Interesse.Clinico.de.Todas.Amostras.pdf)
 
 <div id='dados'/>
