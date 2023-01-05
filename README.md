@@ -1,6 +1,5 @@
 # Projeto_Somático_2022 ![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=EmProdução&color=<YELLOW>)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)]([https://gitpod.io/#https://github.com/fabio-marcelo/trabalho_somaticas])
 
 # Pipeline Análise Variantes Somáticas 
 
