@@ -1,4 +1,4 @@
-# Projeto_Somático_2022 ![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=EmProdução&color=<YELLOW>)
+# Projeto_Somático_2022 ![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=Completo&color=<YELLOW>)
 
 
 # Pipeline Análise Variantes Somáticas 
