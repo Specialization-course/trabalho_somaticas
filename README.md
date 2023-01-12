@@ -11,6 +11,7 @@
 5. [Obtenção de Arquivos](#arquivos)
 6. [Pipeline do Trabalho](#colab)
 7. [Análise e Interpretação dos Dados](#dados)
+8. [Conclusões sobre os Dados](#conclusao)
 
 <div id='introducao'/> 
 
@@ -86,3 +87,11 @@ Pipeline com passo-a-passo desenvolvida no [Google Colab](https://drive.google.c
 * [Genes de Interesse Clínico de Todas Amostras.PDF](https://github.com/fabio-marcelo/trabalho_somaticas/files/10377779/GENESD.1.PDF)
 
 <div id='dados'/>
+
+<div id='conclusao'/>
+
+## 🧾 Conclusões sobre os Dados
+
+* [Discussão dos Resultados](https://docs.google.com/document/d/1E-OvyK8f7CeKnqd_vUQ5Hn0j5ICAeC09-6ZGQbmv69M/edit)
+
+<div id='conclusao'/>
